@@ -10,3 +10,6 @@
 [submodule "ProMicroKiCad"]
 	path = ProMicroKiCad
 	url = https://github.com/Biacco42/ProMicroKiCad
+[submodule "STM32-USBHID-MultimediaPilot"]
+	path = STM32-USBHID-MultimediaPilot
+	url = https://github.com/JagdPietr/STM32-USBHID-MultimediaPilot
